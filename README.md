@@ -31,7 +31,7 @@
 
 ## Contributing
 
-Modify `template.json` using Rosé Pine variables, then build variants:
+Modify `template.toml` using Rosé Pine variables, then build variants:
 
 ```sh
 npx @rose-pine/build@latest

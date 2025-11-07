@@ -1,0 +1,67 @@
+# $name
+# Theme create by: https://github.com/pearcidar
+# Update by(sort by time):
+# 
+# Thanks for all contributor!!
+
+# If you want to make border display just set it same as sidebar background color
+
+# Code syntax highlight theme (you can go to https://github.com/alecthomas/chroma/blob/master/styles to find one you like)
+code_syntax_highlight = "$id"
+
+# ========= Border =========
+file_panel_border = "$highlightMed"
+sidebar_border = "$base"
+footer_border = "$highlightMed"
+
+# ========= Border Active =========
+file_panel_border_active = "$muted"
+sidebar_border_active = "$iris"
+footer_border_active = "$gold"
+modal_border_active = "$subtle"
+
+# ========= Background (bg) =========
+full_screen_bg = "$base"
+file_panel_bg = "$base"
+sidebar_bg = "$base"
+footer_bg = "$base"
+modal_bg = "$base"
+
+# ========= Foreground (fg) =========
+full_screen_fg = "$text"
+file_panel_fg = "$text"
+sidebar_fg = "$text"
+footer_fg = "$text"
+modal_fg = "$text"
+
+# ========= Special Color =========
+cursor = "$foam"
+correct = "$pine"
+error = "$love"
+hint = "$pine"
+cancel = "$muted"
+# Gradient color can only have two color!
+gradient_color = ["$pine", "$love"]
+
+# ========= File Panel Special Items =========
+file_panel_top_directory_icon = "$foam"
+file_panel_top_path = "$rose"
+file_panel_item_selected_fg = "$iris"
+file_panel_item_selected_bg = "$base"
+
+# ========= Sidebar Special Items =========
+sidebar_title = "$muted"
+sidebar_item_selected_fg = "$gold"
+sidebar_item_selected_bg = "$base"
+sidebar_divider = "$subtle"
+
+# ========= Modal Special Items =========
+modal_cancel_fg = "$text"
+modal_cancel_bg = "$highlightHigh"
+
+modal_confirm_fg = "$text"
+modal_confirm_bg = "$love"
+
+# ========= Help Menu =========
+help_menu_hotkey = "$gold"
+help_menu_title = "$foam"

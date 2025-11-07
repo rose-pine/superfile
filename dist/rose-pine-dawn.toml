@@ -1,5 +1,5 @@
-# Rose Pine Dawn
-# Theme create by: https://github.com/Henriquehnnm
+# Rosé Pine Dawn
+# Theme create by: https://github.com/pearcidar
 # Update by(sort by time):
 # 
 # Thanks for all contributor!!
@@ -10,12 +10,12 @@
 code_syntax_highlight = "rose-pine-dawn"
 
 # ========= Border =========
-file_panel_border = "#f2e9e1"
+file_panel_border = "#dfdad9"
 sidebar_border = "#faf4ed"
-footer_border = "#f2e9e1"
+footer_border = "#dfdad9"
 
 # ========= Border Active =========
-file_panel_border_active = "#797593"
+file_panel_border_active = "#9893a5"
 sidebar_border_active = "#907aa9"
 footer_border_active = "#ea9d34"
 modal_border_active = "#797593"
@@ -36,7 +36,7 @@ modal_fg = "#575279"
 
 # ========= Special Color =========
 cursor = "#56949f"
-correct = "#56949f"
+correct = "#286983"
 error = "#b4637a"
 hint = "#286983"
 cancel = "#9893a5"
@@ -47,17 +47,17 @@ gradient_color = ["#286983", "#b4637a"]
 file_panel_top_directory_icon = "#56949f"
 file_panel_top_path = "#d7827e"
 file_panel_item_selected_fg = "#907aa9"
-file_panel_item_selected_bg = "#dfd8d1"
+file_panel_item_selected_bg = "#faf4ed"
 
 # ========= Sidebar Special Items =========
 sidebar_title = "#9893a5"
 sidebar_item_selected_fg = "#ea9d34"
-sidebar_item_selected_bg = "#dfd8d1"
+sidebar_item_selected_bg = "#faf4ed"
 sidebar_divider = "#797593"
 
 # ========= Modal Special Items =========
 modal_cancel_fg = "#575279"
-modal_cancel_bg = "#9893a5"
+modal_cancel_bg = "#cecacd"
 
 modal_confirm_fg = "#575279"
 modal_confirm_bg = "#b4637a"

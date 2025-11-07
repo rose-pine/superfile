@@ -1,4 +1,4 @@
-# Rose Pine
+# Rosé Pine
 # Theme create by: https://github.com/pearcidar
 # Update by(sort by time):
 # 
@@ -50,7 +50,7 @@ file_panel_item_selected_fg = "#c4a7e7"
 file_panel_item_selected_bg = "#191724"
 
 # ========= Sidebar Special Items =========
-sidebar_title = "#6e6e86"
+sidebar_title = "#6e6a86"
 sidebar_item_selected_fg = "#f6c177"
 sidebar_item_selected_bg = "#191724"
 sidebar_divider = "#908caa"
